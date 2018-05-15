@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gtile",
+    "texture": "111b06911",
+    "rect": [
+      592,
+      592,
+      290,
+      290
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      290
+    ]
+  }
+}
